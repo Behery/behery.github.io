@@ -3,24 +3,25 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [mo.behery@gmail.com](mailto:mo.behery@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+<!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
 
+<!-- 
 ## Mailing Address
 
 > 221B, Baker Street
 >
 > London
 >
-> United Kingdom
+> United Kingdom -->
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](#)
+2. [Linkedin](#)
+3. [Stackoverflow](#)
