@@ -1,6 +1,6 @@
 title: Mohamed Behery
 url: "behery.github.io"
-baseurl: "/"
+baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,11 +16,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
+ - name: "Home"
+   link: "index"
  - name: "Resume"
    link: "cv.pdf"
  - name: "Teaching"
-   link: "Teaching"
+   link: "teaching"
  - name: "Contact"
    link: "contact"
