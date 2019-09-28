@@ -23,4 +23,3 @@ There are currently no open topics. But I am open for discussion of topics relev
 - Introduction to computer programming
 - Data structures and algorithms
 - Computer programming lab
----
