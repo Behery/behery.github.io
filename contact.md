@@ -22,6 +22,6 @@ is_contact: true
 
 ## Social
 
-1. [Github](#)
-2. [Linkedin](#)
-3. [Stackoverflow](#)
+1. [Github](https://github.com/Behery)
+2. [Linkedin](linkedin.com/in/mo-behery)
+3. [Stackoverflow](https://stackexchange.com/users/119676)
