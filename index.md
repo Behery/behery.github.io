@@ -24,12 +24,12 @@ Hello there! I am a researcher at the Knowledge-Based Systems Group (KBSG) at th
   
 
 ### M.Sc. Thesis Student [02.2016 - 09.2016]
-    German Aerospace Center, We{\ss}ling, Germany
+    German Aerospace Center, Weßling, Germany
     A Knowledge-based Activity Representation for Shared Autonomy Teleoperation of Robotic Arms
   
 
 ### Student Research Assistant [07.2015 - 02.2016 ]
-    German Aerospace Center,  We{\ss}ling, Germany
+    German Aerospace Center,  Weßling, Germany
     Worked on assistive robotics for people with tetraplegia using Python, Matlab (Simulink), and OpenRave
   
 
