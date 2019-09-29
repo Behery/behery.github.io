@@ -1,6 +1,6 @@
 title: Mohamed Behery
 url: "behery.github.io"
-baseurl: "/index"
+baseurl: "behery.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
