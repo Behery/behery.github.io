@@ -17,12 +17,12 @@ sass:
 
 nav:
  - name: "Home"
-   link: "index"
+   link: "behery.github.io"
  - name: "Resume"
    link: "cv.pdf"
  - name: "Teaching"
-   link: "teaching"
+   link: "behery.github.io/teaching"
  - name: "Projects"
-   link: "projects"
+   link: "behery.github.io/projects"
  - name: "Contact"
-   link: "contact"
+   link: "behery.github.io/contact"
