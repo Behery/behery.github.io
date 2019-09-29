@@ -7,6 +7,8 @@ There are currently no open topics. But I am open for discussion of topics relev
 
 ## Ongoing Theses:
 
+- Neural Combinatorial Optimizationfor Production Planning (M.Sc.)
+	- By Aymen Gannouni [2019]
 - Action Sequence Extraction from Open-Die-Forging Observations (B.Sc.)
 	- By Matteo Tschesche [2019]
 - Action-Model Learning for Adaptive Behavior Tree Construction (M.Sc.)
