@@ -4,12 +4,17 @@ layout: default
 
 ## Open Thesis Positions:
 The following are the currently open topics. I am also open for discussion of topics relevant to my research interests
+
 ### B.Sc. Thesis: HRI for assistive robotics
+
 #### Keywords:
+
 - Knowledge Representation
 - Intention Recognition
 - Assistive Robotics
-#### Requirements: 
+
+#### Requirements:
+
 - python
 - ROS
 - version control (git)
