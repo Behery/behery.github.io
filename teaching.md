@@ -3,32 +3,18 @@ layout: default
 ---
 
 ## Open Thesis Positions:
-The following are the currently open topics. I am also open for discussion of topics relevant to my research interests
 
-### B.Sc. Thesis: HRI for assistive robotics
-
-#### Keywords:
-
-- Knowledge Representation
-- Intention Recognition
-- Assistive Robotics
-
-#### Requirements:
-
-- python
-- ROS
-- version control (git)
-- knowledge of neural networks and machine translation would be a plus
+For a more updated list of open thesis topics, please refer to the KBSG [thesis list](https://www.kbsg.rwth-aachen.de/theses/open_theses/). I'm also open to discussions and suggestions on topics relevant to my research interests.
 
 ## Ongoing Theses:
 
-- Action Sequence Extraction from Open-Die-Forging Observations (B.Sc.)
-	- By Matteo Tschesche [2019]
 - Learning A Behavior Tree Library from Observations (M.Sc.)
 	- By Leo Krömker [2019]
 
 ## Finished Theses:
 
+- Action Sequence Extraction from Open-Die-Forging Observations (B.Sc.)
+	- By Matteo Tschesche [2019]
 - Neural Combinatorial Optimization for Production Planning (M.Sc.)
 	- By Aymen Gannouni [2019]
 
