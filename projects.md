@@ -23,7 +23,7 @@ Contribution to the ROS_bridge package. ROS bridge is an open-source ROS package
 Previous Projects
 =================
 
-## Care Framework [M.Sc. Thesis]
+## Care Framework [M.Sc. Thesis](https://github.com/Behery/behery.github.io/raw/master/thesis.pdf)
 
 A Knowledge-Based Activity Representation for Shared Autonomy Teleoperation of Robotic Arms. 
 It is difficult to map the signals received from a Brain Computer Interface (BCI) into commands for controlling a 7 Degrees of Freedom robot arm, therefore a user will find it difficult and uncomfortable to perform such activities using a robot arm controlled with a BCI. To overcome this, this thesis introduces the Constraint-based Activity REpresentation (CARE) framework; a framework for shared autonomy teleoperation of a robotic arm using a BCI. The CARE framework defines activities in an object centric approach, where an object declares a set of symbolic and geometric constraints to be applied while performing different manipulation actions that might involve other objects 
