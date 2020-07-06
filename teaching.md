@@ -6,21 +6,15 @@ layout: default
 
 For a more updated list of open thesis topics, please refer to the KBSG [thesis list](https://www.kbsg.rwth-aachen.de/theses/open_theses/). I'm also open to discussions and suggestions on topics relevant to my research interests.
 
-## Ongoing Theses:
-
-- Learning A Behavior Tree Library from Observations (M.Sc.)
-	- By Leo Krömker [2019]
-
-## Finished Theses:
-
-- Action Sequence Extraction from Open-Die-Forging Observations (B.Sc.)
-	- By Matteo Tschesche [2019]
-- Neural Combinatorial Optimization for Production Planning (M.Sc.)
-	- By Aymen Gannouni [2019]
+## Supervised Theses:
+- Learning A Behavior Tree Library from Observations (M.Sc. 2020)
+- Action Sequence Extraction from Open-Die-Forging Observations (B.Sc. 2019)
+- Neural Combinatorial Optimization for Production Planning (M.Sc. 2019)
 
 ## Courses
 
 ### RWTH Aachen University
+- Proseminar Artificial Intelligence [SS 2020]
 - Introduction to Artificial Intelligence [WS 2019/2020]
 - Seminar: Selected Topics in Agent Behavior Modeling [SS 2019]
 - Lab Course: Flexible Task-Level Reasoning and Execution for Logistics Robots [WS 2018/2019]
