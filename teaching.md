@@ -7,13 +7,14 @@ layout: default
 For a more updated list of open thesis topics, please refer to the KBSG [thesis list](https://www.kbsg.rwth-aachen.de/theses/open_theses/). I'm also open to discussions and suggestions on topics relevant to my research interests.
 
 ## Supervised Theses:
-- Learning A Behavior Tree Library from Observations (M.Sc. 2020)
-- Action Sequence Extraction from Open-Die-Forging Observations (B.Sc. 2019)
-- Neural Combinatorial Optimization for Production Planning (M.Sc. 2019)
+- Learning A Behavior Tree Library from Observations (M.Sc., 2020)
+- Action Sequence Extraction from Open-Die-Forging Observations (B.Sc., 2019)
+- Neural Combinatorial Optimization for Production Planning (M.Sc., 2019)
 
 ## Courses
 
 ### RWTH Aachen University
+- Introduction to Artificial Intelligence [WS 2020/2021]
 - Proseminar Artificial Intelligence [SS 2020]
 - Introduction to Artificial Intelligence [WS 2019/2020]
 - Seminar: Selected Topics in Agent Behavior Modeling [SS 2019]
