@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="behery.github.io/img/m-behery-circle.png">
+<img class="profile-picture" src="img/m-behery-circle.png">
 
 Hello there! I am a researcher at the Knowledge-Based Systems Group (KBSG) at the RWTH Aachen university in Germany. I'm currently in an early stage of my PhD work. 
 
