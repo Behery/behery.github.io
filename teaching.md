@@ -14,6 +14,8 @@ For a more updated list of open thesis topics, please refer to the KBSG [thesis 
 ## Courses
 
 ### RWTH Aachen University
+- Seminar Action Modeling and Multi-Agent Navigation [SS 2021]
+- Proseminar Artificial Intelligence [SS 2021]
 - Introduction to Artificial Intelligence [WS 2020/2021]
 - Proseminar Artificial Intelligence [SS 2020]
 - Introduction to Artificial Intelligence [WS 2019/2020]
