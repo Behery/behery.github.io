@@ -7,6 +7,8 @@ layout: default
 For a more updated list of open thesis topics, please refer to the KBSG [thesis list](https://www.kbsg.rwth-aachen.de/theses/open_theses/). I'm also open to discussions and suggestions on topics relevant to my research interests.
 
 ## Supervised Theses:
+- Dynamic Sequence Nodes for Increased Behavior Tree Robustness (B.Sc., 2021)
+- Performance Prediction in Object-Centric Event Logs (B.Sc., 2021)
 - Learning A Behavior Tree Library from Observations (M.Sc., 2020)
 - Action Sequence Extraction from Open-Die-Forging Observations (B.Sc., 2019)
 - Neural Combinatorial Optimization for Production Planning (M.Sc., 2019)
@@ -14,6 +16,8 @@ For a more updated list of open thesis topics, please refer to the KBSG [thesis 
 ## Courses
 
 ### RWTH Aachen University
+- Seminar Robot Control: Reinforcement Learning and Planning [SS 2022]
+- Introduction to Artificial Intelligence [WS 2021/2022]
 - Seminar Action Modeling and Multi-Agent Navigation [SS 2021]
 - Proseminar Artificial Intelligence [SS 2021]
 - Introduction to Artificial Intelligence [WS 2020/2021]
